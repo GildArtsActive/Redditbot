@@ -1,0 +1,23 @@
+{
+    "accounts": [
+        {
+            "client_id": "EDUy7Sg9b7FymJkeH0S4kQ",
+            "client_secret": "Df-4IZ_CNdZsSpmk7BOTxbza4Je8Nw",
+            "username": "Charming-Air8226",
+            "password": "store978dws",
+            "user_agent": "KarmaBot v1.0 by /u/Charming-Air8226"
+        }
+    ],
+    "google_gemini_api_key": "AIzaSyAXPzAoevMO2BTVZkIXdSQx9i_mi2WXG3A",
+    "target_subreddits": [ "pics", "AskReddit", "todayilearned"],
+    "comment_subreddits": ["cosplay", "bollywood", "backpacking", "animeindian"],
+    "repost_subreddits": ["funny", "pics", "memes"],
+    "max_daily_actions": 50,
+    "human_simulation": {
+        "min_delay_between_actions": 60,
+        "max_delay_between_actions": 300,
+        "active_hours_start": 9,
+        "active_hours_end": 23,
+        "weekend_activity_reduction": 0.7
+    }
+}
